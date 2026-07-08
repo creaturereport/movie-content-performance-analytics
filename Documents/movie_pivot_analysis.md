@@ -1,4 +1,4 @@
-#**🎬 Movie Data Analysis: Advanced Pivot Table Scenarios**
+# **🎬 Movie Data Analysis: Advanced Pivot Table Scenarios**
 
 **The Scenario:** You are an analyst for a movie studio. The executives have handed you a raw dataset of 1,000 movies. The columns are: Movie Title, Genre, Release Year, Budget, and Box Office Revenue.
 
