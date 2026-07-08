@@ -8,7 +8,7 @@ They have three specific business questions they want answered before their next
 
 *The Challenge:* By default, pivot tables want to SUM (add up) all the numbers. Action movies might have the highest total revenue just because there are so many of them, but we need the average.
 _______________________
-**The Pivot Table Solution:**
+### **The Pivot Table Solution:**
 
 **Rows:** Drag Genre here.
 
@@ -18,11 +18,11 @@ _______________________
 
 **Final Polish:** Sort the results from Largest to Smallest to easily see the winner.
 
-Question 2: "What is the actual Profit for these genres? We only have columns for Budget and Revenue."
+## Question 2: "What is the actual Profit for these genres? We only have columns for Budget and Revenue."
 
-The Challenge: You need a new data point (Profit), but you don't want to mess up your raw data tab by typing hundreds of new =Revenue - Budget formulas in a new column.
+**The Challenge:** You need a new data point (Profit), but you don't want to mess up your raw data tab by typing hundreds of new =Revenue - Budget formulas in a new column.
 
-The Pivot Table Solution:
+### The Pivot Table Solution:
 
 Rows: Drag Genre here.
 
