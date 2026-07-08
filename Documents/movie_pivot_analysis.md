@@ -1,4 +1,5 @@
 # **🎬 Movie Data Analysis: Advanced Pivot Table Scenarios**
+* **NOTE:** * I analyzed the profitability of different genres. [Click here to read my Pivot Table breakdown!](./Documents/movie_pivot_analysis.md)
 
 **The Scenario:** You are an analyst for a movie studio. The executives have handed you a raw dataset of 1,000 movies. The columns are: Movie Title, Genre, Release Year, Budget, and Box Office Revenue.
 
