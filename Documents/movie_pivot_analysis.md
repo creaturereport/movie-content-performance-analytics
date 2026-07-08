@@ -1,10 +1,10 @@
-##**🎬 Movie Data Analysis: Advanced Pivot Table Scenarios**
+#**🎬 Movie Data Analysis: Advanced Pivot Table Scenarios**
 
 **The Scenario:** You are an analyst for a movie studio. The executives have handed you a raw dataset of 1,000 movies. The columns are: Movie Title, Genre, Release Year, Budget, and Box Office Revenue.
 
 They have three specific business questions they want answered before their next board meeting.
 
-**Question 1:** "Which genre is the most reliably profitable? Don't just show us total revenue; we want to see the AVERAGE revenue per movie for each genre."
+## Question 1:  "Which genre is the most reliably profitable? Don't just show us total revenue; we want to see the AVERAGE revenue per movie for each genre."
 
 *The Challenge:* By default, pivot tables want to SUM (add up) all the numbers. Action movies might have the highest total revenue just because there are so many of them, but we need the average.
 _____________________________________________________
@@ -16,7 +16,7 @@ _____________________________________________________
 
 **The "Continued" Trick:** Click on the Revenue value in that bucket and select Value Field Settings. Change the calculation from SUM to AVERAGE.
 
-Final Polish: Sort the results from Largest to Smallest to easily see the winner.
+**Final Polish:** Sort the results from Largest to Smallest to easily see the winner.
 
 Question 2: "What is the actual Profit for these genres? We only have columns for Budget and Revenue."
 
