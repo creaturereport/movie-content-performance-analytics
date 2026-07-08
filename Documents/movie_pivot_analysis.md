@@ -7,7 +7,7 @@ They have three specific business questions they want answered before their next
 ## Question 1:  "Which genre is the most reliably profitable? Don't just show us total revenue; we want to see the AVERAGE revenue per movie for each genre."
 
 *The Challenge:* By default, pivot tables want to SUM (add up) all the numbers. Action movies might have the highest total revenue just because there are so many of them, but we need the average.
-_____________________________________________________
+_______________________
 **The Pivot Table Solution:**
 
 **Rows:** Drag Genre here.
