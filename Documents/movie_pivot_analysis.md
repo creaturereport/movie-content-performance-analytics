@@ -19,6 +19,9 @@ _______________________
 
 **Final Polish:** Sort the results from Largest to Smallest to easily see the winner.
 
+**Visual Result:**
+![Description of image](./Assests/q1_average_revenue.png)
+
 ## Question 2: "What is the actual Profit for these genres? We only have columns for Budget and Revenue."
 
 *The Challenge:* You need a new data point (Profit), but you don't want to mess up your raw data tab by typing hundreds of new =Revenue - Budget formulas in a new column.
