@@ -20,7 +20,7 @@ _______________________
 **Final Polish:** Sort the results from Largest to Smallest to easily see the winner.
 
 **Visual Result:**
-![Description of image](./Assests/q1_average_revenue.png)
+![Description of image](./Assets/q1_average_revenue.png)
 
 ## Question 2: "What is the actual Profit for these genres? We only have columns for Budget and Revenue."
 
