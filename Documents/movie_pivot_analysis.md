@@ -20,6 +20,7 @@ _______________________
 **Final Polish:** Sort the results from Largest to Smallest to easily see the winner.
 
 **Visual Result:**
+
 ![Pivot Table of AVERAGE revenue per movie for each genre](../Assets/q1_average_revenue.png)
 
 ## Question 2: "What is the actual Profit for these genres? We only have columns for Budget and Revenue."
@@ -36,6 +37,11 @@ ___________________________
 
 **Result:** The pivot table instantly generates a brand-new "Profit" column inside your summary table without ever touching your raw data.
 
+**Visual Result:**
+
+![Pivot Table of actual Profit for these genres](../Assets/q2_net_profit.png)
+
+
 ## Question 3: "Sci-Fi movies make a lot of money, but what percentage of our TOTAL market pie do they actually represent?"
 
 *The Challenge:* The executives don't want to see raw dollar amounts (like $5,000,000,000). They want to see percentages (like 25% of all revenue).
@@ -51,3 +57,7 @@ ___________________________
 **The Selection:** Change it from "No Calculation" to % of Grand Total.
 
 **Result:** The pivot table automatically turns all those giant dollar amounts into clean percentages that total exactly 100% at the bottom.
+
+**Visual Result:**
+
+![Pivot Table of percentage of the TOTAL market pie do each genre actually represents](../Assets/q3_market_share.png)
